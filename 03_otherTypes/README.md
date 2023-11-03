@@ -7,10 +7,29 @@
 ## Castellano
 ---
 
-**TODO**
+Hemos aprendido sobre algunos tipos básicos de C++ (y no tan básicos)
+```
+unsigned int;
+int;
+signed int;
+float / double;
+bool
+std::vector<int>;
+```
+
+
+
 
 
 ## English
 ---
 
-**TODO**
+We learned about some basic (and no so basic) C++ types
+```
+unsigned int;
+int;
+signed int;
+float / double;
+bool
+std::vector<int>;
+```
