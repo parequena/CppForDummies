@@ -7,10 +7,10 @@
 ## Castellano
 ---
 
-**TODO**
+En este vídeo vemos un poco sobre las referencias y sobre las funciones.
 
 
 ## English
 ---
 
-**TODO**
+On this video we learned about references and funcions.
