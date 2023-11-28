@@ -1,4 +1,4 @@
-# 3_otherTypes
+# 03_otherTypes
 
 [**Castellano**](#Castellano) - Esta documentación se realiza en varios idiomas.</br>
 [**English**](#English) - This documentation has been written in multiple languages.</br></br>
