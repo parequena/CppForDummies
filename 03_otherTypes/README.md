@@ -5,8 +5,6 @@
 
 
 ## Castellano
----
-
 Hemos aprendido sobre algunos tipos básicos de C++ (y no tan básicos)
 ```
 unsigned int;
@@ -16,14 +14,9 @@ float / double;
 bool
 std::vector<int>;
 ```
-
-
-
-
+</br>
 
 ## English
----
-
 We learned about some basic (and no so basic) C++ types
 ```
 unsigned int;

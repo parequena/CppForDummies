@@ -5,8 +5,6 @@
 
 
 ## Castellano
----
-
 Hello World! Básico, además de alguna explicación superficial sobre namespaces.
 </br>
 Esta documentación se borró y tendrá que ser revisada.
@@ -14,8 +12,6 @@ Esta documentación se borró y tendrá que ser revisada.
 
 
 ## English
----
-
 Basic Hello World! Some superficial namespaces explanation.
 </br>
 This documentation was deleted, and should be revised.

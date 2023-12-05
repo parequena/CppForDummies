@@ -5,8 +5,6 @@
 
 
 ## Castellano
----
-
 En este capítulo hemos aprendido a compilar nuestro primer programa con [GCC 11.3](https://gcc.gnu.org/).</br>
 
 Hemos creado nuestro primer fichero, y lo hemos compilador con `g++ first.cpp` y hemos visto como crear nuestro primera función `int main()` finalmente hemos expicado el funcionamiento de `return` dentro de la función `main` y hemos creado nuestra primera variable de tipo `int`.</br>
@@ -15,8 +13,6 @@ Además, hemos visto el valor de todas nuestras variables usando el depurador [c
 
 
 ## English
----
-
 In this chapter we have learn to compile our first program with [GCC 11.3](https://gcc.gnu.org/).</br>
 
 We have created our first file, and compiled with `g++ first.cpp` and created our first function `int main()`, finally we explained how `return` works inside the `main` function, and we created our first variable of type `int`.</br>

@@ -5,12 +5,8 @@
 
 
 ## Castellano
----
-
 En este vídeo vemos un poco sobre las referencias y sobre las funciones.
-
+</br>
 
 ## English
----
-
 On this video we learned about references and funcions.

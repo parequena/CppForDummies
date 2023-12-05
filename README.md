@@ -21,7 +21,7 @@ These videos should never be taken as a representation of my knowledge, as I aim
 | :---------------------------------- | :---------------------------------------------------------------------------------------------: |-| :---------------------------------: | ----------------: |
 | [01_firstProgram](/01_firstProgram) | [![Mi primer programa en C++](/gitbub_files/01_firstProgram.png)](https://youtu.be/RYJwdPjwLhA) |&emsp;&emsp;&emsp;|       [07_scopes](/07_scopes) | [![Scope, ¿Qué es? ¿Para qué sirve?](/gitbub_files/07_scopes.png)](https://youtu.be/I1xvkCW3BfE) |
 |   [02_helloWorld](/02_helloWorld)   | [![Mi primer Hello World](/gitbub_files/02_helloWorld.png)](https://youtu.be/P5K65CN5fc8)       |&emsp;&emsp;&emsp;| [08_templates](/08_templates) | [![Templates](/gitbub_files/08_templates.png)](https://youtu.be/U1T8lixDKFg) |
-|   [03_otherTypes](/03_otherTypes)   | [![Hay más tipos](/gitbub_files/03_otherTypes.png)](https://youtu.be/ge5fyTDBvps)               |&emsp;&emsp;&emsp;|
+|   [03_otherTypes](/03_otherTypes)   | [![Hay más tipos](/gitbub_files/03_otherTypes.png)](https://youtu.be/ge5fyTDBvps)               |&emsp;&emsp;&emsp;| [09_01_hpp](/09_01_hpp) | [![Templates](/gitbub_files/09_01_hpp.png)](https://youtu.be/lfDJWyGRF0A) |
 |   [04_statements](/04_statements)   | [![Statements y demás cosas](/gitbub_files/04_statements.png)](https://youtu.be/PksBRDqT1W0)    |&emsp;&emsp;&emsp;|
 |   [05_references](/05_references)   | [![Referencias y funciones](/gitbub_files/05_references.png)](https://youtu.be/p1jXxxD_wZY)     |&emsp;&emsp;&emsp;|
 |        [06_const](/06_const)        | [![¡Hazlo todo (o casi...) const!](/gitbub_files/06_const.png)](https://youtu.be/2yJ9CMIXGjo)   |&emsp;&emsp;&emsp;|
