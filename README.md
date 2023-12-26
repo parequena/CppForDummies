@@ -9,22 +9,30 @@ In this repository, we have all the courses, separated by videos from my course 
 Furthermore, these videos are created with the intention of learning, and they can always be modified and/or extended. </br>
 These videos should never be taken as a representation of my knowledge, as I aim to simplify my explanations as much as possible to avoid overwhelming the person who is learning, in addition to trying to create short videos.
 
-### Tecnologías / Technologies
+## Tecnologías / Technologies
 - Arch WSL2.0 en Windows 11
 - GCC/Clang
 - VSCode
 - C++23
 
----
+## Capítulos / Chapters
 
 | Capítulo                            | Vídeo de Youtube                                                                                | | Capítulo                            | Vídeo de Youtube  |
 | :---------------------------------- | :---------------------------------------------------------------------------------------------: |-| :---------------------------------: | ----------------: |
-| [01_firstProgram](/01_firstProgram) | [![Mi primer programa en C++](/gitbub_files/01_firstProgram.png)](https://youtu.be/RYJwdPjwLhA) |&emsp;&emsp;&emsp;|       [07_scopes](/07_scopes) | [![Scope, ¿Qué es? ¿Para qué sirve?](/gitbub_files/07_scopes.png)](https://youtu.be/I1xvkCW3BfE) |
-|   [02_helloWorld](/02_helloWorld)   | [![Mi primer Hello World](/gitbub_files/02_helloWorld.png)](https://youtu.be/P5K65CN5fc8)       |&emsp;&emsp;&emsp;| [08_templates](/08_templates) | [![Templates](/gitbub_files/08_templates.png)](https://youtu.be/U1T8lixDKFg) |
-|   [03_otherTypes](/03_otherTypes)   | [![Hay más tipos](/gitbub_files/03_otherTypes.png)](https://youtu.be/ge5fyTDBvps)               |&emsp;&emsp;&emsp;| [09_01_hpp](/09_01_hpp) | [![Templates](/gitbub_files/09_01_hpp.png)](https://youtu.be/lfDJWyGRF0A) |
-|   [04_statements](/04_statements)   | [![Statements y demás cosas](/gitbub_files/04_statements.png)](https://youtu.be/PksBRDqT1W0)    |&emsp;&emsp;&emsp;|
-|   [05_references](/05_references)   | [![Referencias y funciones](/gitbub_files/05_references.png)](https://youtu.be/p1jXxxD_wZY)     |&emsp;&emsp;&emsp;|
-|        [06_const](/06_const)        | [![¡Hazlo todo (o casi...) const!](/gitbub_files/06_const.png)](https://youtu.be/2yJ9CMIXGjo)   |&emsp;&emsp;&emsp;|
+| [01_firstProgram](/Courses/01_firstProgram) | [![Mi primer programa en C++](.github_files/01_firstProgram.png)](https://youtu.be/RYJwdPjwLhA) |&emsp;&emsp;&emsp;|    [07_scopes](/Courses/07_scopes)    | [![Scope, ¿Qué es? ¿Para qué sirve?](.github_files/07_scopes.png)](https://youtu.be/I1xvkCW3BfE) |
+|   [02_helloWorld](/Courses/02_helloWorld)   | [![Mi primer Hello World](.github_files/02_helloWorld.png)](https://youtu.be/P5K65CN5fc8)       |&emsp;&emsp;&emsp;| [08_templates](/Courses/08_templates) | [![Templates](.github_files/08_templates.png)](https://youtu.be/U1T8lixDKFg) |
+|   [03_otherTypes](/Courses/03_otherTypes)   | [![Hay más tipos](.github_files/03_otherTypes.png)](https://youtu.be/ge5fyTDBvps)               |&emsp;&emsp;&emsp;|    [09_hpp](/Courses/09_hpp)    | [![Templates](.github_files/09_01_hpp.png)](https://youtu.be/lfDJWyGRF0A) |
+|   [04_statements](/Courses/04_statements)   | [![Statements y demás cosas](.github_files/04_statements.png)](https://youtu.be/PksBRDqT1W0)    |&emsp;&emsp;&emsp;|
+|   [05_references](/Courses/05_references)   | [![Referencias y funciones](.github_files/05_references.png)](https://youtu.be/p1jXxxD_wZY)     |&emsp;&emsp;&emsp;|
+|        [06_const](/Courses/06_const)        | [![¡Hazlo todo (o casi...) const!](.github_files/06_const.png)](https://youtu.be/2yJ9CMIXGjo)   |&emsp;&emsp;&emsp;|
+
+## Extra
+- [00_Environment](/Extra/00_environment/README.md) : Hablamos sobre el entorno en el que trabajamos.
+   - We talk about the environment where we are currently working.
+- [04_02_statements_extra](Extra/04_02_statements_extra/README.md) : Un vídeo más detallado sobre algunos statements de C++.
+   - A more detailed video about C++ statements.
+- [04_02_statements_extra](Extra/04_02_statements_extra/README.md) : En vez de incluír ficheros, usamos import en C++20 (o superior).
+   - Instead of including files, we are using C++20 (or above) import.
 
 ## Social Media
 If you wanna get in touch:
