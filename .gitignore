@@ -1,6 +1,7 @@
 # This folder
 */.vscode
 */a.out
+.vscode/settings.json
 
 # Prerequisites
 *.d

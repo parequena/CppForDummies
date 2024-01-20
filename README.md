@@ -18,12 +18,12 @@ These videos should never be taken as a representation of my knowledge, as I aim
 ## Capítulos / Chapters
 
 | Capítulo                            | Vídeo de Youtube                                                                                | | Capítulo                            | Vídeo de Youtube  |
-| :---------------------------------- | :---------------------------------------------------------------------------------------------: |-| :---------------------------------: | ----------------: |
-| [01_firstProgram](/Courses/01_firstProgram) | [![Mi primer programa en C++](.github_files/01_firstProgram.png)](https://youtu.be/RYJwdPjwLhA) |&emsp;&emsp;&emsp;|    [07_scopes](/Courses/07_scopes)    | [![Scope, ¿Qué es? ¿Para qué sirve?](.github_files/07_scopes.png)](https://youtu.be/I1xvkCW3BfE) |
-|   [02_helloWorld](/Courses/02_helloWorld)   | [![Mi primer Hello World](.github_files/02_helloWorld.png)](https://youtu.be/P5K65CN5fc8)       |&emsp;&emsp;&emsp;| [08_templates](/Courses/08_templates) | [![Templates](.github_files/08_templates.png)](https://youtu.be/U1T8lixDKFg) |
-|   [03_otherTypes](/Courses/03_otherTypes)   | [![Hay más tipos](.github_files/03_otherTypes.png)](https://youtu.be/ge5fyTDBvps)               |&emsp;&emsp;&emsp;|    [09_hpp](/Courses/09_hpp)    | [![Include hpp](.github_files/09_01_hpp.png)](https://youtu.be/lfDJWyGRF0A) |
-|   [04_statements](/Courses/04_statements)   | [![Statements y demás cosas](.github_files/04_statements.png)](https://youtu.be/PksBRDqT1W0)    |&emsp;&emsp;&emsp;|    [10_class](/Courses/10_class)    | [![Class](.github_files/10_class.png)](https://youtu.be/oxBcIqN8_Gg) |
-|   [05_references](/Courses/05_references)   | [![Referencias y funciones](.github_files/05_references.png)](https://youtu.be/p1jXxxD_wZY)     |&emsp;&emsp;&emsp;|
+| :---------------------------------: | :---------------------------------------------------------------------------------------------: |-| :---------------------------------: | ----------------: |
+| [01_firstProgram](/Courses/01_firstProgram) | [![Mi primer programa en C++](.github_files/01_firstProgram.png)](https://youtu.be/RYJwdPjwLhA) |&emsp;&emsp;&emsp;|          [07_scopes](/Courses/07_scopes)    | [![Scope, ¿Qué es? ¿Para qué sirve?](.github_files/07_scopes.png)](https://youtu.be/I1xvkCW3BfE) |
+|   [02_helloWorld](/Courses/02_helloWorld)   | [![Mi primer Hello World](.github_files/02_helloWorld.png)](https://youtu.be/P5K65CN5fc8)       |&emsp;&emsp;&emsp;|       [08_templates](/Courses/08_templates) | [![Templates](.github_files/08_templates.png)](https://youtu.be/U1T8lixDKFg) |
+|   [03_otherTypes](/Courses/03_otherTypes)   | [![Hay más tipos](.github_files/03_otherTypes.png)](https://youtu.be/ge5fyTDBvps)               |&emsp;&emsp;&emsp;|                [09_hpp](/Courses/09_hpp)    | [![Include hpp](.github_files/09_01_hpp.png)](https://youtu.be/lfDJWyGRF0A) |
+|   [04_statements](/Courses/04_statements)   | [![Statements y demás cosas](.github_files/04_statements.png)](https://youtu.be/PksBRDqT1W0)    |&emsp;&emsp;&emsp;|            [10_class](/Courses/10_class)    | [![Class](.github_files/10_class.png)](https://youtu.be/oxBcIqN8_Gg) |
+|   [05_references](/Courses/05_references)   | [![Referencias y funciones](.github_files/05_references.png)](https://youtu.be/p1jXxxD_wZY)     |&emsp;&emsp;&emsp;| [11_polymorphism](/Courses/11_polymorphism) | [![Polimorfismo](.github_files/11_polymorphism.png)](https://youtu.be/apdpkXilG6k) |
 |        [06_const](/Courses/06_const)        | [![¡Hazlo todo (o casi...) const!](.github_files/06_const.png)](https://youtu.be/2yJ9CMIXGjo)   |&emsp;&emsp;&emsp;|
 
 ## Extra
