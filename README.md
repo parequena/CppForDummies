@@ -27,12 +27,18 @@ These videos should never be taken as a representation of my knowledge, as I aim
 |        [06_const](/Courses/06_const)        | [![¡Hazlo todo (o casi...) const!](.github_files/06_const.png)](https://youtu.be/2yJ9CMIXGjo)   |&emsp;&emsp;&emsp;|
 
 ## Extra
-- [00_Environment](/Extra/00_environment/README.md) : Hablamos sobre el entorno en el que trabajamos.
+- [00_cppfordummies](Extra/00_cppfordummies/README.md) : Hablamos sobre C++ para Dummies.
+   - We talk about C++ for Dummies.
+- [01_02_environment](Extra/01_02_environment/README.md) : Hablamos sobre el entorno en el que trabajamos.
    - We talk about the environment where we are currently working.
+- [02_02_cpp23HelloWorld](Extra/02_02_cpp23HelloWorld/README.md) : Vídeo sobre el nuevo Hello World (desde C++23).
+   - Video to newest C++23's Hello World.
 - [04_02_statements_extra](Extra/04_02_statements_extra/README.md) : Un vídeo más detallado sobre algunos statements de C++.
    - A more detailed video about C++ statements.
-- [04_02_statements_extra](Extra/04_02_statements_extra/README.md) : En vez de incluír ficheros, usamos import en C++20 (o superior).
+- [09_02_modules](Extra/09_02_modules/README.md) : En vez de incluír ficheros, usamos import en C++20 (o superior).
    - Instead of including files, we are using C++20 (or above) import.
+- [11_02_raii](Extra/11_02_raii/README.md) : Haremos un pequeño ejemplo de RAII.
+   - We will do a tiny RAII example.
 
 ## Social Media
 If you wanna get in touch:
