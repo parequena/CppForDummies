@@ -40,10 +40,10 @@ These videos should never be taken as a representation of my knowledge, as I aim
 - [11_02_raii](Extra/11_02_raii/README.md) : Haremos un pequeño ejemplo de RAII.
    - We will do a tiny RAII example.
 
-## Social Media
-If you wanna get in touch:
-
-[LinkedIn](https://www.linkedin.com/in/parequena/) <br/>
-[Twitter (Spanish)](https://twitter.com/conPdePABLO) <br/>
-[Twitch (Spanish)](https://www.twitch.tv/theApoCa): Not always streaming C++. <br/>
-[Yotube (Spanish)](https://www.youtube.com/channel/UCnrucENG097xgewxhVe5toA): C++ programming courses (?) <br/>
+# Get in Touch
+If you want to get in touch with me, here are my social networks
+- [Twitter](https://x.com/conPdePABLO)
+- [BlueSky](https://bsky.app/profile/theapoca.bsky.social)
+- [Youtube](https://www.youtube.com/@conpdepab)
+- [Instagram](https://www.instagram.com/conpdepab/)
+- [LinkedIn](https://www.linkedin.com/in/parequena/)
